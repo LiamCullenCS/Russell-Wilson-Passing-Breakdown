@@ -8,3 +8,6 @@ Histogram showing frequency of passing performances.
 
 Probability Density of Wilson's 2018 Passing Performances
 ![probdensity](https://user-images.githubusercontent.com/29874915/52074862-c30e9600-2582-11e9-8db8-94a9c4b85574.png)
+
+Using the new Python package Next-Gen-Scrapy, I isolated Russell Wilson's passing locations from the past two seasons.
+![Russ](https://user-images.githubusercontent.com/29874915/54282600-44027980-4594-11e9-97f7-98781b5a9d74.PNG)
