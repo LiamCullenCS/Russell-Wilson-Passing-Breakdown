@@ -11,3 +11,10 @@ Probability Density of Wilson's 2018 Passing Performances
 
 Using the new Python package Next-Gen-Scrapy, I isolated Russell Wilson's passing locations from the past two seasons.
 ![Russ](https://user-images.githubusercontent.com/29874915/54282600-44027980-4594-11e9-97f7-98781b5a9d74.PNG)
+
+I then calculated the average depth of target across both seasons by getting the mean of the y coordinate from each pass.
+![Russ17vs18](https://user-images.githubusercontent.com/29874915/54477983-37388c80-4805-11e9-9f7d-1e96a0654c93.PNG)
+
+The difference of -0.739 average yards per depth of target suggests that Russell Wilson's passing statistics have suffered since the beginning of the 2018 season, and the appointment of new offensive coordinator, Brian Schottenheimer. Schottenheimer's football philosophy prioritises the run game and the Seahawks offense was ranked 2nd in the league in attempts (534) in 2018, compared to 23rd (409 attempts) the year prior.
+
+Russell Wilson also recorded his lowest number of pass attempts in a season since 2013 despite a TD% of 8.2 (career high), and a rating of 110.9 (also a career high).  
